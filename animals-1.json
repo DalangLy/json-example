@@ -22,5 +22,13 @@
       "likes": ["mice"],
       "dislikes": ["cookies"]
     }
+  },
+  {
+    "name": "Purrpaws1",
+    "species" : "cat1",
+    "foods1": {
+      "likes": ["mice1"],
+      "dislikes": ["cookies1"]
+    }
   }
 ]
